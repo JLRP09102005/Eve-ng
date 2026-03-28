@@ -1,0 +1,47 @@
+NexaCore Enterprise Network Topology Project
+1.Overview
+
+This project presents the design and implementation of an enterprise network topology for NexaCore, developed as part of an academic assignment.
+
+The objective was to analyze the company's requirements and demands, implement a functional and scalable network solution, and improve upon the base topology provided.
+
+In addition to fulfilling all requested specifications, our team enhanced the original design to ensure better performance, security, and scalability.
+
+2.Project Goals
+-Meet all NexaCore's stated network requirements and constraints
+-Improve the base topology with optimized architecture
+-Ensure high availability and fault tolerance
+-Provide a secure and segmented network design
+-Deliver a fully reproducible configuration
+
+3.Configuration Files
+
+This project is open-source, and all device configurations are provided in this repository.
+
+✔ Ready-to-use configurations
+✔ Copy-paste compatible
+✔ Structured per device
+
+You can directly apply the configurations to compatible devices or network simulators (e.g., Packet Tracer, GNS3).
+
+4.Technologies Used
+-Cisco-based configurations (CLI)
+-VLANs & Trunking (802.1Q)
+-OSPF (or chosen routing protocol)
+-DHCP & DNS services
+-ACLs for traffic control
+
+5.License
+
+This project is released as open-source for educational purposes.
+You are free to use, modify, and distribute it.
+
+👥 Authors
+
+Class project developed by students for academic purposes.
+
+FINAL NOTES:
+
+This project demonstrates how a basic network topology can be transformed into a more efficient, secure, and scalable enterprise solution.
+
+All configurations are provided to ensure that anyone can easily replicate and learn from this implementation.
