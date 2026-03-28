@@ -25,16 +25,12 @@ This project is open-source, and all device configurations are provided in this 
 You can directly apply the configurations to compatible devices or network simulators (e.g., Packet Tracer, GNS3).
 
 4.Technologies Used
+-EVE-NG network simulator
 -Cisco-based configurations (CLI)
 -VLANs & Trunking (802.1Q)
 -OSPF (or chosen routing protocol)
 -DHCP & DNS services
 -ACLs for traffic control
-
-5.License
-
-This project is released as open-source for educational purposes.
-You are free to use, modify, and distribute it.
 
 👥 Authors
 
